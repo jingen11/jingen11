@@ -1,7 +1,7 @@
 Hi Everyone,
 
-New developer starting to gain more experience in programming.😁
+A full-stack developer.😁
 
-Currently learning and working on projects related to Flutter and Javascript modern libraries.
+TechStack: Nodejs-Mongodb, Mysql-React, Flutter
 
-MERN Stack lover.
+https://jedev.com
