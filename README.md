@@ -4,4 +4,4 @@ A full-stack developer.😁
 
 TechStack: Nodejs-Mongodb, Mysql-React, Flutter
 
-https://jedev.com
+https://je-dev.com
