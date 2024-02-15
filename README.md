@@ -5,8 +5,8 @@ A learner, a software engineer, a leetcoder
 Mastering Node js, initial contact with Golang
 Diving deep into backend
 
-Programming language / Tech involvement
-Javascript
+Programming language / Tech involvement:
+Javascript\n
 Golang
 Dart
 Nodejs
