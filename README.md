@@ -1,7 +1,23 @@
-Hi Everyone,
+Pronoun: He/Him
 
-A full-stack developer.😁
+A learner, a software engineer, a leetcoder
 
-TechStack: Nodejs-Mongodb, Mysql-React, Flutter
+Mastering Node js, initial contact with Golang
+Diving deep into backend
 
-https://je-dev.com
+Programming language / Tech involvement
+Javascript
+Golang
+Dart
+Nodejs
+React
+Mongo
+Mysql
+Flutter
+HTML
+CSS
+Google Cloud
+AWS
+
+Checkout my portfolio here: https://je-dev.com
+Checkout my leetcode here: https://leetcode.com/jingen11
