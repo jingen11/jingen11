@@ -19,5 +19,5 @@ CSS<br>
 Google Cloud<br>
 AWS<br>
 
-Checkout my portfolio here: https://je-dev.com<br>
+Checkout my portfolio here: https://profile.je-dev.com<br>
 Checkout my leetcode here: https://leetcode.com/jingen11
